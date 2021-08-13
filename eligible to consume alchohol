@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main(){
+  int age;
+  cout<<"Enter your age Dude:";
+  cin>>"age;
+  
+  if (age>=18) {
+     cout<<"\ntake your tequilla shot";
+  } else {
+     cout<<"\nsip some wine";
+  return 0;
+  }
+     
